@@ -14,5 +14,12 @@ GetFed a responsive website that allows the client to search for recipies, and v
 1. Enter desired recipe item in search bar
 2. Click search
 
+## Built With
+
+* Jquery
+* Edamam API
+* Javascript 
+
 ## Deployment
 
+https://damianisaacalexander.github.io/GetFed_Project/
