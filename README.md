@@ -16,9 +16,9 @@ GetFed a responsive website that allows the client to search for recipies, and v
 
 ## Contributors
 
-[Douglas W Ritchie](https://github.com/Dritchie3) Back-end
-[Damian Alexander Isaac](https://github.com/DamianIsaacAlexander) Front-end/Back-end
-[Sylvia Ramirez](https://github.com/sylviadiane69) Front-end
+* [Douglas W Ritchie](https://github.com/Dritchie3) Back-end
+* [Damian Alexander Isaac](https://github.com/DamianIsaacAlexander) Front-end/Back-end
+* [Sylvia Ramirez](https://github.com/sylviadiane69) Front-end
 
 ## Built With
 
